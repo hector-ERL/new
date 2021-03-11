@@ -1,0 +1,33 @@
+header{
+	text-align:center;
+	background-color:black;
+	line-height:2;}
+
+footer{
+	align-self:flex-end;
+	background-color:black;
+	line-height:3;
+	text-align:center;
+	width:100%;
+	position:relative;
+	top:120vh;}
+
+.img3{
+	position:relative;
+	left:420px;}
+	
+.img2{
+	position:relative;
+	right:300px;}
+
+.img4{
+	position:relative;
+	right:240px;}
+	
+.c1{
+	background:black;
+	width:160px;}
+
+.c2{
+	background:black;
+width:200px;}
